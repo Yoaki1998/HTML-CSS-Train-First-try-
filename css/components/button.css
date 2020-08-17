@@ -1,0 +1,36 @@
+.button-block {
+  position: relative;
+  z-index: 4;
+  display: flex;
+  justify-content: space-between;
+  width: 530px;
+  left: -195px;
+}
+
+.button {
+
+  border: 3px solid white ;
+  border-radius: 50px;
+  color: white;
+  padding: 5px 38px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
+.act {
+  background-color: white ;
+  color: black;
+}
+
+.cut {
+  position: relative;
+  z-index: 4;
+  color: white;
+  border-bottom: 2px solid white;
+  width: 124px;
+  left: 15px;
+  font-weight: lighter;
+  margin-top: 10px;
+}

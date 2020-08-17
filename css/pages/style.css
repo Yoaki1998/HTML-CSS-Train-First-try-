@@ -1,0 +1,27 @@
+/* FONT */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+
+
+@import url("../components/slider.css");
+@import url("../components/navbar.css");
+@import url("../components/button.css");
+
+body a {
+  text-decoration: none;
+  color: White;
+}
+
+.container {
+  position: fixed;
+  left: 43%;
+  top:12%;
+  z-index: 4;
+}
+
+.container h2 {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+
+}

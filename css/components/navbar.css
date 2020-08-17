@@ -1,0 +1,33 @@
+.navbar {
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px ;
+  font-family: 'Montserrat', sans-serif;
+  z-index: 100;
+  width: 97%;
+  align-items: center;
+}
+
+#teslar{
+  width: 200px;
+}
+
+.middle {
+  display: flex;
+  justify-content: space-around;
+  width: 630px;
+}
+
+.end {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 215px;
+}
+
+.iconify {
+  width: 26px;
+  height: 26px;
+  color: white;
+}
